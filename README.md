@@ -5,7 +5,7 @@ Welcome to my GitHub space! I'm an enthusiastic and driven Computer Science unde
 
 ## 🌟 About Me
 
-- 📚 Currently in my 3rd year of B.Tech in Computer Science (2022–2026)
+- 📚 Currently in my 4th year of B.Tech in Computer Science (2022–2026)
 - 🎯 Passionate about Machine Learning, NLP, Web development and Blockchain
 - 🛠️ Always eager to explore new technologies and experiment with ideas
 
